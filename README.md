@@ -1,6 +1,6 @@
 ### Hi there, I'm Hayder 👋
 
-💻 **Frontend Developer** | 🚀 **Tech Enthusiast** | 🌍 **Open Source Contributor**
+💻 **Software Engineer** | 🚀 **Tech Enthusiast** | 🌍 **Open Source Contributor**
 
 I specialize in building interactive, high-performance web applications using modern frontend technologies. I also have experience working with backend systems.
 
