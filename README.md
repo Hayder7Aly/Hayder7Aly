@@ -139,6 +139,4 @@ greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁�
         <a href="https://stackoverflow.com"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png"
                 alt="stackoverflow" /></a>
     </p>
-    
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
