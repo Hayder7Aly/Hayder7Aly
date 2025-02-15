@@ -15,8 +15,12 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 - **⚙️ Backend**: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL, Apollo Server, RESTful APIs, Firebase Authentication, Stripe, Twilio, SendGrid  
 - **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
 - **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
---
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
     <!-- Core Tech Stack -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
