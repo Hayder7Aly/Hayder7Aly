@@ -11,35 +11,12 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 ---
 
-## 🛠️ Tech Stack  
+### 🚀 Tech Stack:
 
-### 🧰 Frontend Expertise  
-- ⚛ **React.js** | **Next.js**  
-- 🟡 **JavaScript** | 🟦 **TypeScript**  
-- 🗄 **State Management**: Redux, Redux Toolkit, React Query  
-- 📝 **Forms & Validation**: React Hook Form, Formik, Yup  
-- 📊 **Data Tables**: React Table (Search, Pagination, Sorting, Filtering)  
-- 🎨 **Styling & UI Libraries**: Tailwind CSS, Material UI, Ant Design  
-- 📄 **Rendering Strategies**: CSR, SSR, SSG  
-- 🔗 **Third-Party Integrations**: Firebase, Payment Gateway, APIs, GraphQL, Apollo  
-- 🚀 **Deployment**: Vercel, Netlify  
-
-### 🧰 Backend Expertise  
-- 🟢 **Node.js** | 🚀 **Express.js**  
-- 🛢 **Databases**: MongoDB, MySQL, SQL  
-- 🔧 **ORMs & Query Builders**: Sequelize  
-- 🔌 **Third-Party Integrations**: Stripe, Twilio, SendGrid  
-- 🔒 **Authentication**: Google, Facebook, JWT, OAuth  
-- 🚀 **GraphQL & Apollo Server**  
-- 🌍 **RESTful API Development & Integration**  
-- 📡 **WebSockets & Real-Time Features**  
-- 🔄 **Feature Enhancement for Existing Projects**  
-- ☁ **Cloud & Deployment**: Vercel, Firebase, DigitalOcean  
-
-### 🧰 Quality Assurance  
-- ✅ **Testing Methodologies**: Manual Testing, Automated Testing, Unit Testing  
-- 🛠 **Testing Tools**: React Testing Library, Jest, Enzyme, Cypress  
-- 📈 **Development Practices**: Agile, Test-Driven Development (TDD), Behavior-Driven Development (BDD)  
+- **🧑‍💻 Frontend**: JavaScript, TypeScript, React.js, Next.js, Redux, Redux Toolkit, React Query, TailwindCSS, Material UI, Ant Design, Formik, Yup, Firebase  
+- **⚙️ Backend**: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL, Apollo Server, RESTful APIs, Firebase Authentication, Stripe, Twilio, SendGrid  
+- **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
+- **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
 
 ---
 
