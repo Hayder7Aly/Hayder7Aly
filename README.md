@@ -15,7 +15,7 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 - **⚙️ Backend**: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL, Apollo Server, RESTful APIs, Firebase Authentication, Stripe, Twilio, SendGrid  
 - **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
 - **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
-
+--
 <p align="center">
     <!-- Core Tech Stack -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -117,12 +117,8 @@ const greet = async (name: string) => {
 greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁️)"
 
 ```
----
 
-
---
-
-# Contact Me
+## Contact Me
    <p align="center">
         <a href="https://hayderaly.vercel.app"><img src="https://img.icons8.com/fluent/64/000000/domain.png"
                 alt="darkwood" /></a>
