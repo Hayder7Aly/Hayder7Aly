@@ -112,21 +112,20 @@ console.log(greet("Visitor"));
     </a>
 </p>
 
----
+--
 
 # Contact Me
-  <p align="center">
+   <p align="center">
         <a href="https://hayderaly.vercel.app"><img src="https://img.icons8.com/fluent/64/000000/domain.png"
                 alt="darkwood" /></a>
         <a href="mailto:007harryjutt@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png"
                 alt="email" /></a>
         <a href="https://twitter.com/@haederalee"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png"
                 alt="twitter" /></a>
-        <a href="https://linkedin.com/in/hayderaly"><img
-                src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin" /></a>
-    
-   <a href="https://www.reddit.com/user/Internal-Source5388/"><img
-                        src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit" /></a>
-                <a href="https://stackoverflow.com"><img
-                        src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="stackoverflow" /></a>
+        <a href="https://linkedin.com/in/hayderaly"><img src="https://img.icons8.com/color/64/000000/linkedin.png"
+                alt="linkedin" /></a>
+        <a href="https://www.reddit.com/user/Internal-Source5388/"><img
+                src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit" /></a>
+        <a href="https://stackoverflow.com"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png"
+                alt="stackoverflow" /></a>
     </p>
