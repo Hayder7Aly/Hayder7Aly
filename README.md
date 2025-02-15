@@ -1,8 +1,15 @@
 ### Hi there, I'm Hayder 👋
 
-💻 **Software Engineer** | 🚀 **Tech Enthusiast** | 🌍 **Open Source Contributor**
+💻 **Software Engineer** | 🚀 **Tech Enthusiast** | 🌍 **Frontend Expert**
 
-I specialize in building interactive, high-performance web applications using modern frontend technologies. I also have experience working with backend systems.
+## 🚀 About Me  
+I specialize in crafting **interactive, high-performance web applications** using modern frontend technologies. My passion lies in building **smooth, scalable, and visually appealing user experiences**, while ensuring **performance optimization and clean, maintainable code**.  
+
+While my expertise is in **frontend engineering**, I also have a **solid understanding of backend technologies**, which allows me to work on **full-stack applications** when needed.  
+
+💡 **_"Great user interfaces are not just built—they are carefully crafted—seamlessly blending functionality with aesthetics."_**  
+
+---
 
 ### 🚀 Tech Stack:
 - **Frontend**: JavaScript, TypeScript, React.js, Next.js, TailwindCSS
