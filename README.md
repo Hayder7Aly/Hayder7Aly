@@ -11,10 +11,40 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 ---
 
-### 🚀 Tech Stack:
-- **Frontend**: JavaScript, TypeScript, React.js, Next.js, TailwindCSS
-- **Backend**: Node.js, MongoDB
-- **Tools & Platforms**: Git, Vercel, Appwrite
+## 🛠️ Tech Stack  
+
+### 🧰 Frontend Expertise  
+- ⚛ **React.js** | **Next.js**  
+- 🟡 **JavaScript** | 🟦 **TypeScript**  
+- 🗄 **State Management**: Redux, Redux Toolkit, React Query  
+- 📝 **Forms & Validation**: React Hook Form, Formik, Yup  
+- 📊 **Data Tables**: React Table (Search, Pagination, Sorting, Filtering)  
+- 🎨 **Styling & UI Libraries**: Tailwind CSS, Material UI, Ant Design  
+- 📄 **Rendering Strategies**: CSR, SSR, SSG  
+- 🔗 **Third-Party Integrations**: Firebase, Payment Gateway, APIs, GraphQL, Apollo  
+- 🚀 **Deployment**: Vercel, Netlify  
+
+### 🧰 Backend Expertise  
+- 🟢 **Node.js** | 🚀 **Express.js**  
+- 🛢 **Databases**: MongoDB, MySQL, SQL  
+- 🔧 **ORMs & Query Builders**: Sequelize  
+- 🔌 **Third-Party Integrations**: Stripe, Twilio, SendGrid  
+- 🔒 **Authentication**: Google, Facebook, JWT, OAuth  
+- 🚀 **GraphQL & Apollo Server**  
+- 🌍 **RESTful API Development & Integration**  
+- 📡 **WebSockets & Real-Time Features**  
+- 🔄 **Feature Enhancement for Existing Projects**  
+- ☁ **Cloud & Deployment**: Vercel, Firebase, DigitalOcean  
+
+### 🧰 Quality Assurance  
+- ✅ **Testing Methodologies**: Manual Testing, Automated Testing, Unit Testing  
+- 🛠 **Testing Tools**: React Testing Library, Jest, Enzyme, Cypress  
+- 📈 **Development Practices**: Agile, Test-Driven Development (TDD), Behavior-Driven Development (BDD)  
+
+---
+
+🔥 **Always exploring new technologies and improving code quality!** 🚀  
+
 
 ### 📫 Connect with me:
 - GitHub: [your GitHub profile link]
