@@ -16,31 +16,6 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 - **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
 - **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
 
-
-
-🔥 **Always exploring new technologies and improving code quality!** 🚀  
-
-
-#### 🛠️ Code Sample:
-```typescript
-// 🚀 Full-Stack Hello World with a twist!
-
-const fetchGreeting = async (name: string): Promise<string> => {
-  const response = await fetch(`https://api.example.com/greet?name=${name}`);
-  const data = await response.json();
-  return data.message;
-};
-
-const greet = async (name: string) => {
-  console.log(await fetchGreeting(name));
-};
-
-greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁️)"
-
-```
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <!-- Core Tech Stack -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -120,6 +95,30 @@ greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁�
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
 </p>
+
+
+🔥 **Always exploring new technologies and improving code quality!** 🚀  
+
+
+#### 🛠️ Code Sample:
+```typescript
+// 🚀 Full-Stack Hello World with a twist!
+
+const fetchGreeting = async (name: string): Promise<string> => {
+  const response = await fetch(`https://api.example.com/greet?name=${name}`);
+  const data = await response.json();
+  return data.message;
+};
+
+const greet = async (name: string) => {
+  console.log(await fetchGreeting(name));
+};
+
+greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁️)"
+
+```
+---
+
 
 --
 
