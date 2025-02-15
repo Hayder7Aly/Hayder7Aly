@@ -1,6 +1,6 @@
 ### Hi there, I'm Hayder 👋
 
-💻 **Software Engineer** | 🚀 **Tech Enthusiast** | 🌍 **Frontend Expert**
+💻 **Software Engineer** | 🚀 **Tech Enthusiast** | ⚡ **Performance-Focused**
 
 ## 🚀 About Me  
 I specialize in crafting **interactive, high-performance web applications** using modern frontend technologies. My passion lies in building **smooth, scalable, and visually appealing user experiences**, while ensuring **performance optimization and clean, maintainable code**.  
@@ -23,11 +23,20 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 #### 🛠️ Code Sample:
 ```typescript
-const greet = (name: string): string => {
-  return `Hello, ${name}! 👋`;
+// 🚀 Full-Stack Hello World with a twist!
+
+const fetchGreeting = async (name: string): Promise<string> => {
+  const response = await fetch(`https://api.example.com/greet?name=${name}`);
+  const data = await response.json();
+  return data.message;
 };
 
-console.log(greet("Visitor"));
+const greet = async (name: string) => {
+  console.log(await fetchGreeting(name));
+};
+
+greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁️)"
+
 ```
 ---
 
