@@ -16,7 +16,7 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 - **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
 - **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
 
-&nbsp;
+
 &nbsp;
 &nbsp;
 
@@ -100,6 +100,8 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
     </a>
 </p>
 
+&nbsp;
+&nbsp;
 
 🔥 **Always exploring new technologies and improving code quality!** 🚀  
 
