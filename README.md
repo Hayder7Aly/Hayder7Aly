@@ -9,8 +9,6 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 💡 **_"Great user interfaces are not just built—they are carefully crafted—seamlessly blending functionality with aesthetics."_**  
 
---
-
 ### 🚀 Tech Stack:
 
 - **🧑‍💻 Frontend**: JavaScript, TypeScript, React.js, Next.js, Redux, Redux Toolkit, React Query, TailwindCSS, Material UI, Ant Design, Formik, Yup, Firebase  
@@ -18,7 +16,7 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 - **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
 - **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
 
----
+
 
 🔥 **Always exploring new technologies and improving code quality!** 🚀  
 
@@ -38,7 +36,7 @@ const greet = (name: string): string => {
 
 console.log(greet("Visitor"));
 ```
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
