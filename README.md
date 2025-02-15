@@ -1,4 +1,4 @@
-### Hi there, I'm Hayder 👋
+# Hi there, I'm Hayder 👋
 
 💻 **Software Engineer** | 🚀 **Tech Enthusiast** | 🌍 **Frontend Expert**
 
@@ -20,13 +20,6 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 🔥 **Always exploring new technologies and improving code quality!** 🚀  
 
-
-### 📫 Connect with me:
-- GitHub: [your GitHub profile link]
-- LinkedIn: [your LinkedIn profile link]
-- Portfolio: [your portfolio link]
-
----
 
 #### 🛠️ Code Sample:
 ```typescript
