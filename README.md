@@ -9,7 +9,7 @@ While my expertise is in **frontend engineering**, I also have a **solid underst
 
 💡 **_"Great user interfaces are not just built—they are carefully crafted—seamlessly blending functionality with aesthetics."_**  
 
----
+--
 
 ### 🚀 Tech Stack:
 
